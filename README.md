@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banner.svg">
-  <img alt="Fallback image description" src="banner.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner.svg">
+  <img alt="Hi" src="assets/banner.svg">
 </picture>
 &nbsp;
 
@@ -12,12 +12,12 @@ Final-year B.Tech CSE undergrad at the University of Kalyani. I enjoy designing 
 
 ## Skills
 
-| Category  |                                                                               |
-| --------- | ----------------------------------------------------------------------------------- |
-| Languages | ![Languages](https://skillicons.dev/icons?i=python,js,c)                            |
-| Backend   | ![Backend](https://skillicons.dev/icons?i=fastapi,flask,docker)                     |
-| Frontend  | ![Frontend](https://skillicons.dev/icons?i=react,materialui,bootstrap)              |
-| Databases | ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase) |
+| Category       |                                                                                     |
+| -------------- | ----------------------------------------------------------------------------------- |
+| Languages      | ![Languages](https://skillicons.dev/icons?i=python,js,c)                            |
+| Backend & AI   | ![Backend](https://skillicons.dev/icons?i=fastapi,flask,docker)&nbsp; ![Langchain](assets/langchain.svg)                       |
+| Frontend       | ![Frontend](https://skillicons.dev/icons?i=react,materialui,bootstrap)              |
+| Databases      | ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase) |
 
 
 
