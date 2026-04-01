@@ -5,7 +5,7 @@
 </picture>
 &nbsp;
 
-Final-year B.Tech CSE undergrad at the University of Kalyani. I enjoy designing and building practical, full-stack solutions to real-world problems. My toolkit includes **Python** (**FastAPI** / **Flask**) for the backend, paired with **SQL** or **NoSQL** databases. For the frontend, I have a working knowledge of **React**, I or can spin up a quick app with **Streamlit**. Lately I've been exploring AI frameworks like **LangChain**.
+Final-year B.Tech CSE undergrad at the University of Kalyani. I enjoy designing and building practical, full-stack solutions to real-world problems. My toolkit includes **Python** (**FastAPI** / **Flask**) for the backend, paired with **SQL** or **NoSQL** databases. For the frontend, I have a working knowledge of **React**, or I can spin up a quick app with **Streamlit**. Lately I've been exploring AI frameworks like **LangChain**.
 
 🟢 I'm currently seeking a remote internship where I can contribute to challenging backend problems. Feel free to review my [Resume](https://farhanr22.is-a.dev/Farhan-Rahaman-Resume.pdf), connect on [LinkedIn](https://linkedin.com/in/farhan-rahaman/), or reach out via [email](mailto:22farhanr@gmail.com).
 
